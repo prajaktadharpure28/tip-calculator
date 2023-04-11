@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(172, 83, 172);
+}
+
+.card {
+    width: 320px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(236, 236, 236);
+}
+
+.card-header {
+    background-color: rgb(173, 173, 236);
+    color: white;
+    text-align: center;
+}
+
+.card-title {
+    margin-top: 20px;
+}
+
